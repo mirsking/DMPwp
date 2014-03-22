@@ -8,5 +8,5 @@ int main()
   hdmp.Learnlwr();                
   hdmp.Reprolwr(1,0.2,"../../data/lwr/");
 
-  return 1;
+  return 0;
 }
